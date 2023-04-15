@@ -1,6 +1,5 @@
-# gighub
+# gighub resources
 
-## Repositories
 
 ### Frontend(Client)
 https://github.com/ethtokyo-gighub/Front
