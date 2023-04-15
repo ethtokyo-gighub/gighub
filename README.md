@@ -2,7 +2,10 @@
 
 ## Repositories
 
-### Frontend
+### Frontend(Client)
+https://github.com/ethtokyo-gighub/Front
 ### SmartContracts
-### Backend
+https://github.com/ethtokyo-gighub/SmartContracts
+### Backend(API)
+https://github.com/ethtokyo-gighub/API
 
