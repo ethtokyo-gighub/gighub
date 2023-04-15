@@ -1,10 +1,14 @@
 # gighub resources
 
+### Public URL
+https://front-git-main-ethdokyo-gighub.vercel.app/
 
-### Frontend(Client)
+### Repositories
+
+- **Frontend(Client)**
 https://github.com/ethtokyo-gighub/Front
-### SmartContracts
+- **SmartContracts**
 https://github.com/ethtokyo-gighub/SmartContracts
-### Backend(API)
+- **Backend(API)**
 https://github.com/ethtokyo-gighub/API
 
