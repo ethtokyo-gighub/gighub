@@ -1,9 +1,9 @@
 # gighub resources
 
-### Public URL
+### 1. Public URL
 https://front-git-main-ethdokyo-gighub.vercel.app/
 
-### Repositories
+### 2. Repositories
 
 - **Frontend(Client)**
 https://github.com/ethtokyo-gighub/Front
